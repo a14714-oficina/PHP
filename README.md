@@ -1,5 +1,5 @@
 # PHP
-# 🐘 Repositório: php-projects
+# 🌐 Repositório: php-projects
 
 # 🇵🇹 Descrição
 Projetos e exercícios desenvolvidos em PHP, focados em programação backend,
