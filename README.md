@@ -29,7 +29,7 @@ and the first steps into dynamic web development.
 # 🇬🇧 Technologies Used
 - PHP
 - HTML5 / CSS3
-- Local Server: XAMPP, WAMP, or Laragon
+- Local Server: XAMPP.
 
 # 🇬🇧 Features
 - Basic PHP scripts
